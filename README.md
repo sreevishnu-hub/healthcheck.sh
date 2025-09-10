@@ -1,2 +1,0 @@
-# healthcheck.sh
-# healthcheck.sh
